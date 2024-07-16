@@ -47,4 +47,4 @@ O projeto é construído com React, Tailwind CSS e o framework Vite, oferecendo 
 ## Contato
 
 Se tiver alguma dúvida ou sugestão, sinta-se à vontade para entrar em contato:
-https://www.linkedin.com/in/ylano-dev/
+https://www.linkedin.com/in/danillo-cavalcante-a06517236/
